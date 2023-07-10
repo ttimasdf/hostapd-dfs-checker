@@ -1,3 +1,5 @@
+![LLM Copilot](https://img.shields.io/badge/copilot-gpt--3.5--turbo-purple)
+
 # hostapd-dfs-checker
 Check hostapd managed WLAN DFS status and trigger interface reboot when DFS brings down the interface. Compatible on OpenWrt.
 
